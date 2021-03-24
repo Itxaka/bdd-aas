@@ -1,0 +1,6 @@
+WHITELIST=[
+    "ls",
+    "ps",
+    "pwd",
+
+]
